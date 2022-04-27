@@ -1,4 +1,20 @@
-# Godot-3D-Template
-Godot Template for 3D Games
+# Project-06d-3D-RPG
 
-Includes Keyboard mappings and Global.gd
+Project 6 for MSCH-C220
+
+An 3D RPG
+## Implementation
+
+Built using Godot 3.4.2
+
+
+## References
+
+
+## Future Development
+
+None
+
+## Created by 
+
+Abbey Gorny
